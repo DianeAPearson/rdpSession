@@ -1,5 +1,6 @@
 # rdpSession
 This repository is a collection of scripts published on SCRIPTING LIBRARY and created by Paolo Frigo.
+![immagine](https://user-images.githubusercontent.com/56889513/117016702-420b4f80-acf3-11eb-87dd-1ea79b51d896.png)
 
 scriptinglibrary logo
 
